@@ -1,3 +1,7 @@
 # Furniture_Refurbishing_Manual
 
-This Manual explains how to reupholster, repaint, and refinish furniture.
+This Manual explains how to properly refurbish furniture and the tools needed. 
+Some techniques include: 
+-reupholster
+-repaint
+-refinish
