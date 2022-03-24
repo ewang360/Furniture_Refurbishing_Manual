@@ -28,3 +28,8 @@ Some techniques include:
 #### 5. Q: What is the best method to maintain furniture ####
      
         A: Always try to dust with a clean soft cloth. If you need to use soap, use a mild soap with luke warm water and a clean soft cloth. You can also use lemon oil. We recommend Guardsman furniture polish and cleaners.
+        
+        
+#### Sources: ####
+https://www.remarkablerefinishing.com/qa
+https://porch.com/advice/furniture-renovation-tips-from-experts
