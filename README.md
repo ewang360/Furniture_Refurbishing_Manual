@@ -31,7 +31,7 @@ out. Our furniture refurbishing manual empowers all of us to connect, work toget
 
 #### 1. Q: What are some basic tools someone needs to start doing a bit of woodworking? ####
 
-        'A: Tools such as screwdrivers, a hammer, a combination square, a hand saw, a palm sander and a chisel set are useful when you're just a beginner.'
+        `A: Tools such as screwdrivers, a hammer, a combination square, a hand saw, a palm sander and a chisel set are useful when you're just a beginner.`
 
 #### 2. Q: What is an easy method to repair damaged corners on a furniture piece? ####
   
