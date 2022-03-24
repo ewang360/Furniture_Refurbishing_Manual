@@ -8,9 +8,11 @@ Some techniques include:
 
 ## How to Contribute ##
 If you would like to add more techniques or advice to this manual, then please follow these instructions.
-1. Clone this repository
-2. Add changes to your local branch
-3. Make a pull request, and if we approve of it, your contributions will be added in shortly!
+1. Clone this repository by pressing "Code" and using the cloning method of your choice
+2. Make a new branch on your computer
+3. Edit "index.html" by using a text editor of your choice
+4. Commit and push your changes
+5. Make a pull request, and if we approve of it, your contributions will be added in shortly!
 
 ## Definitions ##
 Refurbish: To brighten or freshen up; renovate.  
