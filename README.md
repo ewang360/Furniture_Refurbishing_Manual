@@ -17,7 +17,10 @@ Some techniques include:
   
         A: It is important to use a strong enough material to withstand possible bumps. Materials such as polyester resin can be used with a catalyst. When the mixture           begins to firm up, remove any excess by trimming it away with a utilty knife. The resin can be shaped with a file, rasp, or sandpaper wrapped around a wood bock         or dowel after it has become completely firm. The repair can be painted with water-based acrylic paints and lastly add a topcoat with polyurethane or shellac for         the finishing. 
    
-3. Q: What are different types of topcoasts and sealers I can use?
-   A: Wax, Water-based clear coats, Oil-based clear coats, Shellac finish and Lacquer are some options.
+#### 3. Q: What are different types of topcoasts and sealers I can use? ####
+  
+        A: Wax, Water-based clear coats, Oil-based clear coats, Shellac finish and Lacquer are some options.
    
-4. Q: 
+#### 4. Q: What is the difference of refinishing and restoration? ####
+       
+        A: Refinishing completely strips off the old finish of an item, while restoration keeps the finish on the item. It is cleaned and touched up with color, if       needed, and a new compatible finish is applied.
