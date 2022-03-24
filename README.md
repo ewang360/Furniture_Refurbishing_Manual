@@ -24,3 +24,7 @@ Some techniques include:
 #### 4. Q: What is the difference of refinishing and restoration? ####
        
         A: Refinishing completely strips off the old finish of an item, while restoration keeps the finish on the item. It is cleaned and touched up with color, if       needed, and a new compatible finish is applied.
+
+#### 5. Q: What is the best method to maintain furniture ####
+     
+        A: Always try to dust with a clean soft cloth. If you need to use soap, use a mild soap with luke warm water and a clean soft cloth. You can also use lemon oil. We recommend Guardsman furniture polish and cleaners.
