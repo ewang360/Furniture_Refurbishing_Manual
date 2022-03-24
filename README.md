@@ -1,4 +1,4 @@
-# Furniture-Refurbishing-Manual
+# Furniture Refurbishing Manual
 
 ## This Manual explains how to properly refurbish furniture as well as the tools required. ##
 Some techniques include: 
@@ -7,9 +7,9 @@ Some techniques include:
   * Refinish
 
 ## How to Contribute ##
-If you would like to add more techniques or advice to this manual, then follow these instructions.
+If you would like to add more techniques or advice to this manual, then please follow these instructions.
 1. Clone this repository
-2. Add changes on your local branch
+2. Add changes to your local branch
 3. Make a pull request, and if we approve of it, your contributions will be added in shortly!
 
 ## Definitions ##
@@ -17,6 +17,15 @@ Refurbish: To brighten or freshen up; renovate.
 Reupholster: Upholster with new materials, especially with a different fabric.  
 Repaint: Cover with a new coat of paint.  
 Refinish: Apply a new finish to (a surface or object).  
+
+## Inclusivity Statement ##
+On Earth, each of us contributes a carbon footprint, and we all have a role to play. The state of the  
+environment is the result of our behaviors, our neglect, our material items, how we dispose of these items,  
+and the ways that we courageously share new ways to actively work towards the conservation of the Earth and  
+encourage others to do the same. In turn, our furniture refurbishing manual inspires us to try new things,  
+renovate our run down items into something worth keeping, and be environmentally conscious in a way that is  
+fun and creative. Working to be more environmentally conscious brings us together in ways that help us stand  
+out. Our furniture refurbishing manual empowers all of us to connect, work together, and change the world.
 
 ## Q&A ##
 
@@ -53,5 +62,5 @@ Refinish: Apply a new finish to (a surface or object).
         
         
 #### Sources: ####
-https://www.remarkablerefinishing.com/qa
+https://www.remarkablerefinishing.com/qa  
 https://porch.com/advice/furniture-renovation-tips-from-experts
